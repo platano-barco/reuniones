@@ -33,6 +33,7 @@ by Íñigo Echenique
     * Se produce extrución por presión de la fibra. A los pocos días el casco está arrugado
     * La densidad del agua salada cambia la eficiende de propulsión del motor. Más densidad = Más consumo eléctrico.
     * La curva V-I del panel cambia con la temperatura (No sólo con la radiación solar) Se acerca a la optima cuando más fresco se encuentre el panel. Interesa tenerlo tapado del sol.
+    * Campo de regatas lleno de algas: minimizar el número de apendices del barco. foils = caca
 
 ##### Debate con profesor del Apostol Santiago:
 * El efecto del aprovechamiento de la potencia del panel es mucho menor que el diseño de un buen casco (90-10%)
